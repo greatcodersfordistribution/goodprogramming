@@ -1,0 +1,7 @@
+languaje: java
+
+java:
+  - 7.0
+  - 8.0
+
+ jdk: oraclejdk8
